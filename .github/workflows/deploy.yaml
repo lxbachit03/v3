@@ -40,4 +40,3 @@ jobs:
             cd /app/v3/provision
             docker compose pull
             docker compose up -d
-a
